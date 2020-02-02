@@ -3,10 +3,13 @@
   "repository": {
     "url": "git://github.com/trevorkirpaul/test-package.git"
   },
-  "version": "0.0.1",
-  "main": "src/index.js",
+  "version": "0.0.2",
+  "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
