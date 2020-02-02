@@ -1,0 +1,9 @@
+{
+  "name": " @trevorkirpaul/test-package",
+  "repository": {
+    "url": "git://github.com/trevorkirpaul/test-package.git"
+  },
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT"
+}
